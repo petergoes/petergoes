@@ -2,7 +2,7 @@
 
 <svg fill="none" width="800px" height="400px" xmlns="http://www.w3.org/2000/svg" data-reactroot="">
   <foreignObject width="800px" height="400px">
-    <div>
+    <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         p {
           background-color: red;
