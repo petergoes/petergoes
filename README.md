@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<img src="https://github.com/petergoes/petergoes/raw/master/header.svg">
+<img src="https://github.com/petergoes/petergoes/raw/master/github-header.svg">
 <!--
 **petergoes/petergoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
