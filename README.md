@@ -1,11 +1,17 @@
 ### Hi there 👋
 
-<style>
-  article.markdown-body {
-    background-color: hotpink;
-  }
-</style>
-
+<svg fill="none" width="800px" height="400px" xmlns="http://www.w3.org/2000/svg" data-reactroot="">
+  <foreignObject width="800px" height="400px">
+    <div>
+      <style>
+        p {
+          background-color: red;
+        }
+      </style>
+      <p>some content</p>
+    </div>
+  </foreignObject>
+</svg>
 <!--
 **petergoes/petergoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
