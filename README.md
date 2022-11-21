@@ -1,4 +1,5 @@
 <img src="https://github.com/petergoes/petergoes/raw/master/github-header.svg">
+<a href="https://toot.cafe/@petergoes" rel="me" style="display: none;">Get in touch</a>
 <!--
 **petergoes/petergoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
